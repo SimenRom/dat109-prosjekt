@@ -8,5 +8,6 @@
 </head>
 <body>
 <p>Vil du stemme på ${voteId.navn}?</p>
+<button name="bekreft">Bekreft</button>
 </body>
 </html>

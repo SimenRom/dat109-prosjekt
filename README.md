@@ -20,4 +20,4 @@ https://www.lucidchart.com/documents/view/af103f63-de74-4a8e-acd9-51479869d4d9/0
 
 
 #### Timeliste:
-https://docs.google.com/spreadsheets/d/1ndhcutpOl58or5MI5lLPaydpji5n0mNuF-o_OpnePjQ
+https://docs.google.com/spreadsheets/d/1ndhcutpOl58or5MI5lLPaydpji5n0mNuF-o_OpnePjQ/edit?usp=sharing
